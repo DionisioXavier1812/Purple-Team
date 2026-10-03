@@ -1,12 +1,9 @@
 # Correlação – Purple Team
 
-## Objetivo
-Unir Red + Blue para entender o ataque.
-
 ## Correlação
-- Red Team executou SSH ? Blue Team detectou login
-- Red Team executou cat /etc/passwd ? Blue Team detectou comando
-- Red Team criou malware.txt ? Blue Team detectou arquivo
+- Ataque SSH ? detectado no auth.log
+- Comandos suspeitos ? detectados no syslog
+- Arquivo malicioso ? detectado no kernel.log
 
 ## Conclusão
-Detecção funcionou, mas prevenção falhou.
+Detecção funcionou, prevenção falhou.

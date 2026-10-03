@@ -5,6 +5,3 @@
 2. Reset de credenciais
 3. Remoção do arquivo malicioso
 4. Revisão de permissões
-
-## Resultado
-Sistema restaurado e acesso indevido removido.

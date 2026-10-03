@@ -1,6 +1,6 @@
 # Falhas Identificadas
 
-- Credenciais fracas permitiram acesso
-- SSH exposto sem proteção
+- Credenciais fracas
+- SSH exposto
 - Falta de MFA
-- Falta de regras de firewall
+- Falta de firewall

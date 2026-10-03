@@ -6,6 +6,7 @@ IPs suspeitos:
 Comandos:
 - ssh admin@192.168.1.10
 - cat /etc/passwd
+- hydra brute force
 
 Arquivos:
 - /tmp/malware.txt
