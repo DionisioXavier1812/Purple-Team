@@ -6,10 +6,11 @@
 - Execução de comandos administrativos
 - Criação de arquivo suspeito
 
-## Ferramentas usadas (nível estudante)
+## Ferramentas usadas
 - journalctl
 - auth.log
 - syslog
+- kernel.log
 
 ## Logs relevantes
 Oct 03 10:22:14 sshd: Failed password for admin from 10.0.0.55

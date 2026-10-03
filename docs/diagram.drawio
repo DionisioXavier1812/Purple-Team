@@ -1,0 +1,7 @@
++-----------+      +-----------+      +-------------+
+|  Red Team | ---> | Blue Team | ---> | Purple Team |
++-----------+      +-----------+      +-------------+
+
+Red Team: Executa ataque
+Blue Team: Detecta e responde
+Purple Team: Analisa e melhora
